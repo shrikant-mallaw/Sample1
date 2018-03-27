@@ -8,8 +8,17 @@ namespace WebApplication1
     public class Class_PUSH_2
     {
     }
+
 	
 	 public class Shrikant1
     {
     }
+
+
+	public class Shri
+	{
+
+	}
+
+
 }
